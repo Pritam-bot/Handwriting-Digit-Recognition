@@ -9,5 +9,9 @@ I got 96.3% accuracy using that algo.
 
 I have tried to keep it very simple that way anyone can understand the process.
 
-You can download the dataset from the zip and use it. For this i have used jupyter notebook for this. 
+You can download the dataset from the zip and use it. For this i have used jupyter notebook for this.
+
+This project is basically we have done prediction of hand written digit recognitation. In this data we have pixel values for that digit. In the data there is colomn
+that consists of 'data' values which is named as label. I have done feed all the pixel values in df_x part and 'lables' into df_y part. As we know x part is used to train the model and y part is used to predict. Finally we can check accuracy how much model is working.
+
 Thanks.
